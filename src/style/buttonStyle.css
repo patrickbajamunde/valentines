@@ -1,0 +1,7 @@
+.button {
+    position: relative;
+    top: 450px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
